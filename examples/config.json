@@ -1,0 +1,6 @@
+{
+  "spend_cap": 5.0,
+  "soft_threshold_fraction": 0.5,
+  "similarity_threshold": 0.55,
+  "max_consecutive_similar": 4
+}
